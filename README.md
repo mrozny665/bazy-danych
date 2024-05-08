@@ -8,6 +8,6 @@ Politechnika Wrocławska, Informatyka Techniczna, semestr 5.
 # Database Systems
 Data Base 2 - project
 
-Wrocław University of Science and Technology, 5th semester
+Wrocław University of Science and Technology, Computer Engineering, 5th semester
 
 Łukasz Mróz, 2023-2024
